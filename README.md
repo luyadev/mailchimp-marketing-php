@@ -6,20 +6,20 @@
 
 # Mailchimp Marketing — PHP
 
-The official PHP client library for the Mailchimp Marketing API
+The *un*official PHP client library for the Mailchimp Marketing API *which works with PHP 8.2"
 
 ## Installation
 
 **Option 1:** Install via Packagist
 ```
-composer require mailchimp/marketing
+composer require luyadev/mailchimp-marketing-php
 ```
 
 Or add the following to `composer.json`
 ```
 {
   "require": {
-    "mailchimp/marketing": "*"
+    "luyadev/mailchimp-marketing-php": "^1.0"
   }
 }
 ```
